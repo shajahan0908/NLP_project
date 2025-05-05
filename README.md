@@ -13,7 +13,7 @@ This project is a **Medical Diagnosis Assistant** built with **Streamlit**, **FA
 
 ---
 
-## 🛠Installation
+## Installation
 
 1. **Clone the Repository**
    ```bash
@@ -26,8 +26,9 @@ This project is a **Medical Diagnosis Assistant** built with **Streamlit**, **FA
  - sentence-transformers
  - huggingface_hub
  - numpy
+   
 3.Add Your PubMed Data
--Place your pubmed_results.json file in the root folder.
+- Place your pubmed_results.json file in the root folder.
 
 4.Set Hugging Face Token
 - Get a token from HuggingFace.
@@ -35,11 +36,10 @@ This project is a **Medical Diagnosis Assistant** built with **Streamlit**, **FA
 
 ---
 
-##notebook is full code in python and .py file is converted into Streamlit app.
+## notebook is full code in python and .py file is converted into Streamlit app.
 ---
 
-##Running the App
-
+## Running the App
 
 --streamlit run medical-diagnosis.py
 ---
