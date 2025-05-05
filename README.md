@@ -21,21 +21,25 @@ This project is a **Medical Diagnosis Assistant** built with **Streamlit**, **FA
    cd medical-diagnosis-assistant
 
 2.Install Required Libraries
-- streamlit
-- faiss-cpu
-- sentence-transformers
-- huggingface_hub
-- numpy
+ - streamlit
+ - faiss-cpu
+ - sentence-transformers
+ - huggingface_hub
+ - numpy
 3.Add Your PubMed Data
 -Place your pubmed_results.json file in the root folder.
 
 4.Set Hugging Face Token
--Get a token from HuggingFace.
--You can enter it directly in the sidebar of the Streamlit app.
+- Get a token from HuggingFace.
+- You can enter it directly in the sidebar of the Streamlit app.
+
+---
 
 ##notebook is full code in python and .py file is converted into Streamlit app.
 ---
 
 ##Running the App
+
+
 --streamlit run medical-diagnosis.py
 ---
