@@ -34,6 +34,8 @@ This project is a **Medical Diagnosis Assistant** built with **Streamlit**, **FA
 -You can enter it directly in the sidebar of the Streamlit app.
 
 ##notebook is full code in python and .py file is converted into Streamlit app.
+---
 
 ##Running the App
 --streamlit run medical-diagnosis.py
+---
